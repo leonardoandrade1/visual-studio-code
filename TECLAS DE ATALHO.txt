@@ -1,0 +1,4 @@
+Microsoft Visual Studio Code Map:
+
+1) Select multiplo:  CTRL+SHIFT+L
+2) Deletar Linha: CTRL+SHIFT+K
