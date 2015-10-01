@@ -1,0 +1,8 @@
+{
+"http.proxy": "http://thiago.silva:Larigo.1@proxy.nexxera.com:3128",
+//Aurulent Sans Mono, Droid Sans Mono, DejaVu Sans Mono, Source Code Pro
+"editor.fontFamily": "Aurulent Sans Mono",
+"editor.fontSize": 14,
+"editor.glyphMargin": true,
+"editor.tabSize": "2"	
+}
