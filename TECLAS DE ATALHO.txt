@@ -1,3 +1,8 @@
+VS CODE EXTENSIONS GALLERY:
+https://marketplace.visualstudio.com/#VSCode
+https://code.visualstudio.com/docs/editor/extension-gallery
+
+
 Microsoft Visual Studio Code Map:
 
 1) Select multiplo:  CTRL+SHIFT+L
