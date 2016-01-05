@@ -1,21 +1,17 @@
-// Place your settings in this file to overwrite the default settings
+// Place your settings in this file to overwrite default and user settings.
 {
-	"http.proxy": "http://thiago.silva:Larigo.1@proxy.nexxera.com:3128",
-	// Controls the font family.
-    	//Aurulent Sans Mono, Roboto Mono, Droid Sans Mono, DejaVu Sans Mono, Source Code Pro,
-	"editor.fontFamily": "Source Code Pro",
-	// Controls the font size.
-	"editor.fontSize": 16,
-	"editor.glyphMargin": true,
-    	"editor.tabSize": "4",
-    	// Controls the line height.
-	"editor.lineHeight": 0,
-    	// Controls if the editor should automatically close brackets after opening them
-	"editor.autoClosingBrackets": true,
-	// Controls if the editor should automatically format the line after typing
-	"editor.formatOnType": true,
-    	// Controls the cursor blinking animation.
-	"editor.cursorBlinking": "pulse",
-    	// Controls how folders are being reopened after a restart. Select 'none' to never reopen a folder, 'one' to reopen the last folder you worked on or 'all' to reopen all folders of your last session.
-	"window.reopenFolders": "all",
+    //Aurulent Sans Mono, Droid Sans Mono, DejaVu Sans Mono, Source Code Pro, Roboto Mono
+    "editor.fontFamily": "Source Code Pro",
+    "editor.fontSize": 16,
+    "editor.glyphMargin": true,
+    "window.openInNewWindow": true,
+    "editor.tabSize": "4",
+    // Controls the line height.
+    "editor.lineHeight": 0,
+    // Controls if the editor should automatically close brackets after opening them
+    "editor.autoClosingBrackets": true,
+    // Controls if the editor should automatically format the line after typing
+    "editor.formatOnType": true,    
+    // Controls how folders are being reopened after a restart. Select 'none' to never reopen a folder, 'one' to reopen the last folder you worked on or 'all' to reopen all folders of your last session.
+    "window.reopenFolders": "all",
 }
