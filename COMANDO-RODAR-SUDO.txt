@@ -1,0 +1,6 @@
+COMANDO RODAR PLUGIN ICONS NO VSCODE:
+
+Quando executa como root o mesmo não gosta de rodar e com isso você tem de digitar o
+comando que ele sugere. O comando deve ser feito desta forma, neste formato.
+
+sudo code --user-data-dir=/temp ./index.html
