@@ -8,7 +8,9 @@
     "editor.tabSize": "4",
     //tamanho da fonte com CTRL+Scroll do mouse
     "editor.mouseWheelZoom": true,
-    "editor.detectIndentation": true,    
+    "editor.detectIndentation": true, 
+	 // Controls the cursor blinking animation.
+	"editor.cursorBlinking": "pulse",   
     // Controls the line height.
     "editor.lineHeight": 35,
     // Controls if the editor should automatically close brackets after opening them
