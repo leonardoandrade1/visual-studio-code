@@ -1,0 +1,5 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+    { "key": "ctrl+Shift+down",   "command": "editor.action.copyLinesDownAction", "when": "editorTextFocus" },
+{ "key": "ctrl+Shift+up",     "command": "editor.action.copyLinesUpAction", "when": "editorTextFocus" },
+]
