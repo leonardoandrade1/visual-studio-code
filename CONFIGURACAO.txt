@@ -1,26 +1,20 @@
-// Place your settings in this file to overwrite default and user settings.
-{
-    //Aurulent Sans Mono, Droid Sans Mono, DejaVu Sans Mono, Source Code Pro, Roboto Mono, Hack
-    "editor.fontFamily": "DejaVu Sans Mono",
-    "editor.fontSize": 14,
-    "editor.glyphMargin": true,
-    "window.openInNewWindow": true,
-    "editor.tabSize": "4",
-    //tamanho da fonte com CTRL+Scroll do mouse
-    "editor.mouseWheelZoom": true,
-    "editor.detectIndentation": true,
-	 "editor.formatOnType": true,
-    "editor.renderIndentGuides": true,
-	 // Controls the cursor blinking animation.
-	"editor.cursorBlinking": "pulse",   
-    // Controls the line height.
-    "editor.lineHeight": 35,
-    // Controls if the editor should automatically close brackets after opening them
-    "editor.autoClosingBrackets": true,
-    // Controls if the editor should automatically format the line after typing
-    "editor.formatOnType": true,    
-    // Controls how folders are being reopened after a restart. Select 'none' to never reopen a folder, 'one' to reopen the last folder you worked on or 'all' to reopen all folders of your last session.
-    "window.reopenFolders": "all",
-   
-}
-
+ {
+     // Place your settings in this file to overwrite default and user settings. {
+     //Aurulent Sans Mono, Droid Sans Mono, DejaVu Sans Mono, Source Code Pro, Roboto Mono, Hack
+     "editor.fontFamily": "DejaVu Sans Mono",
+     "editor.fontSize": 14,
+     "editor.glyphMargin": true,
+     "window.openInNewWindow": true,
+     "editor.mouseWheelZoom": true,
+     "editor.detectIndentation": true,
+     "editor.lineHeight": 25,
+     "editor.autoClosingBrackets": true,
+     "editor.formatOnType": true,
+     "window.reopenFolders": "all",
+     "editor.renderIndentGuides": true,
+     "typescript.check.tscVersion": false,
+     "editor.tabCompletion": true,
+     "workbench.editor.enablePreview": false,
+     "typescript.useCodeSnippetsOnMethodSuggest": true,
+     "editor.cursorBlinking": "phase"
+ }
