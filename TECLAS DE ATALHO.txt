@@ -8,4 +8,5 @@ Microsoft Visual Studio Code Map:
 1) Select multiplo:  CTRL+SHIFT+L
 2) Deletar Linha: CTRL+SHIFT+K
 3)Ativar o terminal do linux dentro do VSCode: CTRL+'
+4)Duplica linha: CTRL+SHIFT+ Seta para baixo
 
