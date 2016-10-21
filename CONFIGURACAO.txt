@@ -1,15 +1,17 @@
  {
      // Place your settings in this file to overwrite default and user settings. {
-     //Aurulent Sans Mono, Droid Sans Mono, DejaVu Sans Mono, Source Code Pro, Roboto Mono, Hack
-     "editor.fontFamily": "DejaVu Sans Mono",
-     "editor.fontSize": 14,
+     //Aurulent Sans Mono, Hasklig, Droid Sans Mono, DejaVu Sans Mono, Source Code Pro, Roboto Mono, Hack
+     "editor.fontFamily": "Hasklig",
+     "editor.fontSize": 15,
      "editor.glyphMargin": true,
      "window.openInNewWindow": true,
+     //oculta lista de arquivos abertos na triview
+     "explorer.openEditors.visible": 0,
      "editor.mouseWheelZoom": true,
      "editor.detectIndentation": true,
      "editor.lineHeight": 25,
      "editor.autoClosingBrackets": true,
-     "editor.formatOnType": true,
+     "editor.formatOnType": false,
      "window.reopenFolders": "all",
      "editor.renderIndentGuides": true,
      "typescript.check.tscVersion": false,
