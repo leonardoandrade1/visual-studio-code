@@ -18,5 +18,6 @@
      "editor.tabCompletion": true,
      "workbench.editor.enablePreview": false,
      "typescript.useCodeSnippetsOnMethodSuggest": true,
+     "editor.formatOnSave": false,
      "editor.cursorBlinking": "phase"
  }
