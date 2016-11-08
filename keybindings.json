@@ -1,6 +1,7 @@
 // Place your key bindings in this file to overwrite the defaults
 [
-    { "key": "ctrl+Shift+down",   "command": "editor.action.copyLinesDownAction", "when": "editorTextFocus" },
-    { "key": "ctrl+Shift+up",     "command": "editor.action.copyLinesUpAction", "when": "editorTextFocus" },
-    { "key": "F12",     "command": "extension.open", "when": "editorTextFocus" }
+    { "key": "ctrl+Shift+down", "command": "editor.action.copyLinesDownAction", "when": "editorTextFocus" },
+    { "key": "ctrl+Shift+up", "command": "editor.action.copyLinesUpAction", "when": "editorTextFocus" },
+    { "key": "F12", "command": "extension.open", "when": "editorTextFocus" },
+    { "key": "ctrl+Shift+c", "command": "extension.colorHelper.pick", "when": "editorTextFocus" }
 ]
