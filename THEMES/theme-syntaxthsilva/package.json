@@ -1,0 +1,22 @@
+{
+    "name": "theme-syntaxthsilva",
+    "displayName": "ThSilva-Light-VSCode-Syntax",
+    "description": "A Light Theme for VSCode creating for Thiago Lúcio Bittencourt",
+    "version": "0.0.1",
+    "publisher": "thiagolucio",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "SyntaxLightThiagoLucio",
+                "uiTheme": "vs",
+                "path": "./themes/SyntaxThSilva.tmTheme"
+            }
+        ]
+    }
+}

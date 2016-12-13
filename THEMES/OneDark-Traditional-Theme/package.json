@@ -1,0 +1,22 @@
+{
+    "name": "OneDark-Traditional-Theme",
+    "displayName": "OneDark-Traditional-Theme",
+    "description": "A Syntax theme for VSCode using a traditional One Dark Theme",
+    "version": "0.0.1",
+    "publisher": "thiagolucio",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "OneDark-Traditional-Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/One Dark.tmTheme"
+            }
+        ]
+    }
+}
