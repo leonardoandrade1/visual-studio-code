@@ -1,0 +1,19 @@
+:::CRIAR TEMA PARA VSCODE:::
+
+1-Install node.js (if you haven't already done)
+2-Install yo (if you haven't already done) by executing npm install -g yo
+3-Install the Yo generator for code: npm install -g generator-code
+4-Run yo code and select New Color Theme
+5-Follow the instructions (define the .tmTheme file, theme name, ui theme etc.)
+6-The generator creates a directory for your extension with the name of the theme in your current working directory.
+
+Aonde criar temas? No link abaixo:
+
+http://tmtheme-editor.herokuapp.com/
+
+
+
+Depois disso copia o tema para dentro da pasta "/home/thiagolucio/.vscode/extensions"
+
+e cola a pasta criada do tema lá para dentro...Pronto
+
