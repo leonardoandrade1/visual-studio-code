@@ -1,0 +1,22 @@
+{
+    "name": "Theme-Obsidian-Traditional",
+    "displayName": "Obsidian-Traditional",
+    "description": "Obsidian Theme Created by Thiago Lucio",
+    "version": "0.0.1",
+    "publisher": "thiagolucio",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Obsidian",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Obsidian.tmTheme"
+            }
+        ]
+    }
+}
