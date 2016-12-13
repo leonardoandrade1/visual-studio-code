@@ -1,0 +1,22 @@
+{
+    "name": "theme-onedark-no-italic",
+    "displayName": "One_Dark_no_Italic.tmTheme",
+    "description": "One Dark traditional theme from VSCode with no italic words",
+    "version": "0.0.1",
+    "publisher": "thiagolucio",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "One_Dark_no_Italic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/One_Dark_no_Italic.tmTheme"
+            }
+        ]
+    }
+}
