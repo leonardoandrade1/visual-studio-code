@@ -7,7 +7,7 @@
 <plist version="1.0">
 <dict>
 	<key>author</key>
-	<string>Marcus Ekwall</string>
+	<string>Thiago Lucio</string>
 	<key>name</key>
 	<string>Obsidian</string>
 	<key>version</key>
@@ -18,17 +18,17 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#3F4B4E</string>
+				<string>#252C30</string>
 				<key>caret</key>
 				<string>#E0E2E4</string>
 				<key>foreground</key>
-				<string>#81969A</string>
+				<string>#E0E2E4</string>
 				<key>invisibles</key>
 				<string>#BFBFBF</string>
 				<key>lineHighlight</key>
 				<string>#293134</string>
 				<key>selection</key>
-				<string>#404E51</string>
+				<string>#66747B</string>
 			</dict>
 		</dict>
 		<dict>
@@ -125,8 +125,6 @@
 			<string>constant.language</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
 				<key>foreground</key>
 				<string>#93C763</string>
 			</dict>
@@ -160,8 +158,6 @@
 			<string>variable.language.js</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
 				<key>foreground</key>
 				<string>#93C763</string>
 			</dict>
@@ -173,8 +169,6 @@
 			<string>keyword</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
 				<key>foreground</key>
 				<string>#93C763</string>
 			</dict>
@@ -199,8 +193,6 @@
 			<string>storage</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
 				<key>foreground</key>
 				<string>#93C763</string>
 			</dict>
@@ -234,8 +226,6 @@
 			<string>entity.name.function</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
 				<key>foreground</key>
 				<string>#678CB1</string>
 			</dict>
@@ -260,8 +250,6 @@
 			<dict>
 				<key>foreground</key>
 				<string>#8CBBAD</string>
-				<key>fontStyle</key>
-				<string> bold</string>
 			</dict>
 		</dict>
 		<dict>
@@ -273,8 +261,6 @@
 			<dict>
 				<key>foreground</key>
 				<string>#B3B689</string>
-				<key>fontStyle</key>
-				<string> bold</string>
 			</dict>
 		</dict>
 		<dict>
@@ -339,8 +325,6 @@
 			<string>punctuation.section.embedded</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
 				<key>foreground</key>
 				<string>#D955C1</string>
 			</dict>
@@ -352,8 +336,6 @@
 			<string>keyword.operator.class</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
 				<key>foreground</key>
 				<string>#96989A</string>
 			</dict>
@@ -409,8 +391,6 @@
 			<string>variable.language.js</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
 				<key>foreground</key>
 				<string>#93C763</string>
 			</dict>
@@ -436,7 +416,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>underline, bold</string>
+				<string>underline, </string>
 				<key>foreground</key>
 				<string>#AFC0E5</string>
 			</dict>
@@ -784,8 +764,6 @@
 			<string>entity.name.tag.xml, entity.name.tag.localname.xml</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
 				<key>foreground</key>
 				<string>#678CB1</string>
 			</dict>
@@ -821,8 +799,6 @@
 			<string>meta.tag.sgml.doctype</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
 				<key>foreground</key>
 				<string>#557182</string>
 			</dict>
