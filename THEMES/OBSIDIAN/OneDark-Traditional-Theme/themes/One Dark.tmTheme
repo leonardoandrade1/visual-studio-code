@@ -21,11 +21,11 @@
 		<key>divider</key>
 		<string>#393939</string>
 		<key>foreground</key>
-		<string>#515151</string>
+		<string>#747369</string>
 		<key>selectionBackground</key>
-		<string>#2B313A</string>
+		<string>#515151</string>
 		<key>selectionForeground</key>
-		<string>#2B313A</string>
+		<string>#a09f93</string>
 	</dict>
 	<key>settings</key>
 	<array>
@@ -43,7 +43,7 @@
 				<key>lineHighlight</key>
 				<string>#2B313A</string>
 				<key>selection</key>
-				<string>#2B313A</string>
+				<string>#616161</string>
 			</dict>
 		</dict>
 		<dict>
@@ -78,7 +78,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#2B313A</string>
+				<string>#ABB2BF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -89,7 +89,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#2B313A</string>
+				<string>#ABB2BF</string>
 			</dict>
 		</dict>
 		<dict>

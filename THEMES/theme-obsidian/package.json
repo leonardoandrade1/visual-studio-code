@@ -1,0 +1,22 @@
+{
+    "name": "theme-obsidian",
+    "displayName": "Obsidian-Theme",
+    "description": "Obsidiante Theme from VSCode",
+    "version": "0.0.1",
+    "publisher": "thiagolucio",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Obsidian",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Obsidian.tmTheme"
+            }
+        ]
+    }
+}

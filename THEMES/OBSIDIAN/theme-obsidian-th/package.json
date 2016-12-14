@@ -1,0 +1,22 @@
+{
+    "name": "theme-obsidian-th",
+    "displayName": "ObsidianTH",
+    "description": "Obsidian alternative",
+    "version": "0.0.1",
+    "publisher": "thiagolucio",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Obsidian-TH",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Obsidian-TH.tmTheme"
+            }
+        ]
+    }
+}
