@@ -1,16 +1,16 @@
  {
      // Place your settings in this file to overwrite default and user settings. {
-     //Aurulent Sans Mono, Hasklig, Droid Sans Mono, DejaVu Sans Mono, Source Code Pro, Roboto Mono, Hack
-     "editor.fontFamily": "Hasklig",
-     "editor.fontSize": 15,
+     //Aurulent Sans Mono, Courier Prime Code, Office Code Pro D, Hasklig, Droid Sans Mono, DejaVu Sans Mono, Source Code Pro, Roboto Mono, Hack
+     "editor.fontFamily": "Consolas",
+     "editor.fontSize": 16,
      "editor.glyphMargin": true,
-     "window.openInNewWindow": true,
+     "window.openFilesInNewWindow": true,
      "explorer.openEditors.visible": 0,
      "editor.mouseWheelZoom": true,
      "editor.detectIndentation": true,
-     "editor.lineHeight": 25,
+     "editor.lineHeight": 30,
      "editor.autoClosingBrackets": true,
-     "editor.formatOnType": false,
+     "editor.formatOnType": true,
      "window.reopenFolders": "all",
      "editor.renderIndentGuides": true,
      "typescript.check.tscVersion": false,
@@ -18,6 +18,7 @@
      "workbench.editor.enablePreview": false,
      "typescript.useCodeSnippetsOnMethodSuggest": true,
      "editor.formatOnSave": false,
-     "editor.wordWrap": true,
-     "editor.cursorBlinking": "phase"
+     "editor.wordWrap": false,
+     "editor.cursorBlinking": "phase",
+     "typescript.check.workspaceVersion": false
  }
