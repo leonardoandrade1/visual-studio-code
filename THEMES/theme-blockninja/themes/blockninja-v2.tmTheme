@@ -405,7 +405,8 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFFFFF</string>
+                <!-- COR DO ATRIBUTO HTML -->
+				<string>#93e8fb</string>
 			</dict>
 		</dict>
 		<dict>
