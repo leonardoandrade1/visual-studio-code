@@ -1,0 +1,22 @@
+{
+    "name": "theme-blockninja",
+    "displayName": "blockNinja2",
+    "description": "theme var blockninja",
+    "version": "0.0.1",
+    "publisher": "thiagolucio",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "blockninjav2",
+                "uiTheme": "vs-dark",
+                "path": "./themes/blockninja-v2.tmTheme"
+            }
+        ]
+    }
+}
