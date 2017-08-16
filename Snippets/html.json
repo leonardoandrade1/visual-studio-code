@@ -1,0 +1,61 @@
+{
+/*
+	// Place your snippets for HTML here. Each snippet is defined under a snippet name and has a prefix, body and 
+	// description. The prefix is what is used to trigger the snippet and the body will be expanded and inserted. Possible variables are:
+	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. Placeholders with the 
+	// same ids are connected.
+	// Example:
+	"Print to console": {
+		"prefix": "log",
+		"body": [
+			"console.log('$1');",
+			"$2"
+		],
+		"description": "Log output to console"
+	}
+*/
+	"Estrutura HTML5 Completa": {
+		"prefix": "html5",
+		"body": [
+			"<!DOCTYPE html>",
+			"<html lang=\"pt-br\">",
+			"$1",
+			"<head>",
+			"<meta http-equiv=\"Content-Type\" content=\"text/html;charset=UTF-8\" />",
+			"<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">",
+			"<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+			"<meta name=\"keywords\" content=\"Palavras chave separadas por virgulas\"/>",
+			"<meta name=\"description\" content=\"Texto resumido aparecera nos resultados de busca atalhos\"/>",
+			"<meta name=\"author\" content=\"Nome do autor\">",
+			"<link rel=\"icon\" href=\"favicon.ico\" type=\"image/x-icon\" />",
+			"<title>Título Aba</title>",
+			"$2",
+			"<!-- Bootstrap 3 CSS -->",
+			"<link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css\" integrity=\"sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u\" crossorigin=\"anonymous\">",
+			"<!-- Bootstrap 4 CSS -->",
+			"<link rel=\"stylesheet\" href=\"https: //maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css\" integrity=\"sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M\" crossorigin=\"anonymous\">",
+			"<!-- JQuery JS -->",
+			"<script src=\"https://code.jquery.com/jquery-3.2.1.slim.min.js\" integrity=\"sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN\" crossorigin=\"anonymous\"></script>",
+			"<!-- Bootstrap 3 JS -->",
+			"<script src=\"https: //maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js\" integrity=\"sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa\" crossorigin=\"anonymous\"></script>",
+			"<!-- POPPER BS 4 JS -->",
+			"<script src=\"https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js\" integrity=\"sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4\" crossorigin=\"anonymous\"></script>",
+			"<!-- Bootstrap 4 JS -->",
+			"<script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js\" integrity=\"sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1\" crossorigin=\"anonymous\"></script>",
+			"<!-- Font Awesome -->",
+			"<link href=\"https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css\" rel=\"stylesheet\" integrity=\"sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN\" crossorigin=\"anonymous\">",
+			"<!-- Google MDL -->",
+			"<link rel=\"stylesheet\" href=\"https: //fonts.googleapis.com/icon?family=Material+Icons\">",
+			"<link rel=\"stylesheet\" href=\"https://code.getmdl.io/1.3.0/material.indigo-pink.min.css\">",
+			"<script defer src=\"https://code.getmdl.io/1.3.0/material.min.js\"></script>",
+			"$3",
+			"</head>",
+			"<body>",
+					"<h1>CONTEUDO</h1>",
+			"</body>",
+			"</html>",
+			"$4"
+		],
+		"description": "Estrutura HTML"
+	}
+}

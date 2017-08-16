@@ -1,24 +1,36 @@
  {
      // Place your settings in this file to overwrite default and user settings. {
      //Aurulent Sans Mono, Courier Prime Code, Office Code Pro D, Hasklig, Droid Sans Mono, DejaVu Sans Mono, Source Code Pro, Roboto Mono, Hack
-     "editor.fontFamily": "Consolas",
-     "editor.fontSize": 16,
+     "editor.fontFamily": "Hasklig Medium",
+     "editor.fontSize": 14,
+     "editor.fontLigatures": true,
      "editor.glyphMargin": true,
-     "window.openFilesInNewWindow": true,
+     "window.openFilesInNewWindow": "off",
      "explorer.openEditors.visible": 0,
      "editor.mouseWheelZoom": true,
      "editor.detectIndentation": true,
      "editor.lineHeight": 30,
      "editor.autoClosingBrackets": true,
      "editor.formatOnType": true,
-     "window.reopenFolders": "all",
-     "editor.renderIndentGuides": true,
-     "typescript.check.tscVersion": false,
+     "editor.renderIndentGuides": true,    
      "editor.tabCompletion": true,
      "workbench.editor.enablePreview": false,
      "typescript.useCodeSnippetsOnMethodSuggest": true,
      "editor.formatOnSave": false,
-     "editor.wordWrap": false,
+     "editor.wordWrap": "off",
      "editor.cursorBlinking": "phase",
-     "typescript.check.workspaceVersion": false
- }
+     "editor.minimap.enabled": true,
+     "workbench.iconTheme": "material-icon-theme",
+     "material-icon-theme.showWelcomeMessage": false,
+     "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+     "material-icon-theme.folders.icons": "blue",
+     "files.autoSave": "off",
+    "window.zoomLevel": 0,
+     "atomKeymap.promptV3Features": true,
+     "editor.multiCursorModifier": "ctrlCmd",
+     "editor.formatOnPaste": true,
+     "materialTheme.cache.workbench.settings": {
+         "themeColours": "Darker"
+    },
+    "workbench.colorTheme": "Dracula"
+}
