@@ -1,18 +1,20 @@
-[
 // Place your key bindings in this file to overwrite the defaults
 [
     { "key": "ctrl+Shift+d", "command": "editor.action.copyLinesDownAction", "when": "editorTextFocus" },
+    { "key": "F12", "command": "extension.open", "when": "editorTextFocus" },
     {
-        "key": "f12", "command": "extension.open", "when": "editorTextFocus" },
-    { "key": "ctrl+Shift+c",  "command": "extension.colorHelper.pick", "when": "editorTextFocus" },
+        "key": "ctrl+Shift+c",
+        "command": "extension.colorHelper.pick",
+        "when": "editorTextFocus"
+    },
     {
-        "key": "ctrl+;",
-        "command": "editor.action.addCommentLine",
+        "key": "ctrl+[IntlRo]",
+        "command": "editor.action.commentLine",
         "when": "editorTextFocus && !editorReadonly"
     },
     {
-        "key": "alt+q",
-        "command": "editor.action.goToTypeDefinition"
+        "key": "ctrl+/",
+        "command": "-editor.action.commentLine",
+        "when": "editorTextFocus && !editorReadonly"
     }
-]
 ]
