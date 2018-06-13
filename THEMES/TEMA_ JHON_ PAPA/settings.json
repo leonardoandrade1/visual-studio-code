@@ -1,0 +1,37 @@
+{
+	"editor.autoIndent": true,
+	"editor.codeLens": false,
+	"editor.cursorBlinking": "smooth",
+	"editor.cursorStyle": "line",
+	"editor.fontSize": 14,
+	"editor.fontFamily": "Dank Mono, Operator Mono, Fira Code",
+	"editor.fontLigatures": true,
+	"editor.formatOnPaste": true,
+	"editor.formatOnType": true,
+	"editor.formatOnSave": true,
+	"editor.minimap.enabled": false,
+	"editor.renderWhitespace": "none",
+	"editor.tabCompletion": true,
+	"editor.wordWrap": "off",
+	"explorer.confirmDragAndDrop": false,
+	"explorer.openEditors.visible": 0,
+ 	"files.autoSave": "afterDelay",
+	"files.autoSaveDelay": 1000,
+	"files.exclude": {
+		"**/*.js": {
+			"when": "$(basename).ts"
+		},
+		"**/*.js.map": {
+			"when": "$(basename)"
+		}
+	},
+	"files.hotExit": "onExit",
+	"files.defaultLanguage": "typescript",
+	"files.trimTrailingWhitespace": true,
+  "prettier.printWidth": 100,
+  "prettier.singleQuote": true,
+  "prettier.tabWidth": 2,
+  "window.zoomLevel": 0,
+  "workbench.colorTheme": "Winter is Coming (Dark)",
+	"zenMode.centerLayout": false
+}
